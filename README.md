@@ -1,1 +1,1 @@
-# DevTools
+Chrome DevTools video link [Click me](https://drive.google.com/drive/folders/1KRxgWZ1UXUDPLwG19w8to-Yh3QPehCR0?usp=sharing).
